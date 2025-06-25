@@ -8,6 +8,5 @@ My name is [**Jovan Christian Elbindo**](https://www.linkedin.com/in/jovan-chris
 </p>
 
 <div align="center">
-![snake gif](https://github.com/JovanChristian/JovanChristian/blob/output/github-snake-dark.svg)
-
+  <img src="https://github.com/JovanChristian/JovanChristian/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
