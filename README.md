@@ -6,9 +6,3 @@ My name is [**Jovan Christian Elbindo**](https://www.linkedin.com/in/jovan-chris
   <img src="https://github-readme-stats.vercel.app/api?username=JovanChristian&show_icons=true&count_private=true&title_color=FFA500&icon_color=FFA500&text_color=5C4033&bg_color=1e1e1e&border_color=8B5E3C" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovanChristian&layout=compact&title_color=FFA500&text_color=5C4033&bg_color=1e1e1e&border_color=8B5E3C" height="180"/>
 </p>
----
-
-<p align="center">
-  <img src="https://github.com/JovanChristian/JovanChristian/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>> 
-📝 *Note: Top languages are calculated based on public repositories only and don’t reflect skill level.*
