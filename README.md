@@ -1,10 +1,6 @@
 # Hey, I'm Jovan Christian E! 👋
 
-My name is [**Jovan Christian Elbindo**](https://www.linkedin.com/in/jovan-christian-elbindo-a82661251/).  
-I'm a Computer Science Student at [**Bina Nusantara University**](https://binus.ac.id/).  
-I'm very enthusiastic to learn new programming languages, especially in Software Development and Databases.
-
----
+My name is [**Jovan Christian Elbindo**](https://www.linkedin.com/in/jovan-christian-elbindo-a82661251/). I'm a Computer Science Student at [**Bina Nusantara University**](https://binus.ac.id/). I am very enthusiastic to learn new programming languages ​​especially in Software Development and also Database.
 
 ## 🚀 GitHub Stats
 
