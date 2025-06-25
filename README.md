@@ -8,14 +8,7 @@ My name is [**Jovan Christian Elbindo**](https://www.linkedin.com/in/jovan-chris
 </p>
 ---
 
-## 📊 Contribution Graph
-
-<!-- ❌ If you haven't set up the snake animation, remove this section or use default GitHub heatmap -->
-<!-- ✅ OR: Use a basic GitHub activity graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JovanChristian&theme=orange" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-> 📝 *Note: Top languages are calculated based on public repositories only and don’t reflect skill level.*
+  <img src="https://github.com/JovanChristian/JovanChristian/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>> 
+📝 *Note: Top languages are calculated based on public repositories only and don’t reflect skill level.*
